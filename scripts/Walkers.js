@@ -1,4 +1,4 @@
-import { getWalker } from "./database.js"
+import { getWalkers } from "./database.js"      //#1
 
 const walkers = getWalkers()
 
