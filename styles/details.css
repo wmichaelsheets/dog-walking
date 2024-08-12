@@ -1,5 +1,5 @@
 .details {
-    display: fle;
+    display: flex;
     justify-content: space-evenly;
 }
 
@@ -10,6 +10,6 @@
 }
 
 .assignments {
-    padding: 1rem 5rem;
+    padding: 1rem 8rem;
 }
 
